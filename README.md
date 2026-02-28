@@ -116,20 +116,20 @@ Backend runs on:
 
 #### Screenshots (Add at least 3)
 
-![alt text](image-1.png)
+![alt text](assets/img1.jpeg)
 Shows total emissions summary and analytics visualization.
 
-![alt text](image.png)
+![alt text](assets/img2.jpeg)
 User logs transport, electricity, or spending activities.
 
-![alt text](image-2.png)
+![alt text](assets/img3.jpeg)
 Displays earned carbon credits and breakdown.
 
 #### Diagrams
 
 **System Architecture:**
 
-![alt text](image-4.png)
+![alt text](assets/Architecture.jpeg)
 
 Explanation
 
@@ -143,7 +143,7 @@ Explanation
 
 **Application Workflow:**
 
-![alt text](image-3.png)
+![alt text](assets/Application_workflow.jpeg)
 -User selects activity category.
 -Enters value (e.g., km travelled or money spent).
 -Frontend sends data to backend.
