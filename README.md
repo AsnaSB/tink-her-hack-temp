@@ -143,7 +143,7 @@ Explanation
 
 **Application Workflow:**
 
-![alt text](assets/Application_workflow.jpeg)
+![alt text](assets/applcn_workflow.jpeg)
 -User selects activity category.
 -Enters value (e.g., km travelled or money spent).
 -Frontend sends data to backend.
